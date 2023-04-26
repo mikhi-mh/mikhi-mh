@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
-- 🔭 I’m currently working Java & SpringBoot Skills for the backend.
-- 🌱 Also I’m exlporing AI and ML
+- 🏫 Recently completed Masters in Computers (M.Tech/ Master og Technology )
 - 👯 I’m looking to collaborate on any open source projects.
 - 😄 I love exploring and learning new skills as well as implement those in my projects.
 - 📫 How to reach me: **hmikhilesh@gmail.com**
